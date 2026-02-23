@@ -1,1 +1,2 @@
 # CIVE-202-Project-2
+In this project we were tasked by NDOT to convert their concrete mix design spreadsheet into an easy to use, Python code, able to accept user inputs and be used multiple times. In this project we used more functions including user inputs, modular functions and basic testing scenarios. The code is easy to use and is well described in the notebook. It will be easy to incorporate into a tool on the web in the future.
